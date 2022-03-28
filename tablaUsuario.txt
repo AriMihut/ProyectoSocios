@@ -1,0 +1,6 @@
+tabla - usuarios
+
+id
+nombre
+contraseña
+tipoUsuario --> admin, cliente, proveddor y empleado.

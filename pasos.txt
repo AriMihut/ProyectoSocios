@@ -1,0 +1,8 @@
+Comienzo:
+
+	- CLIENTE: consultar productos, servicios... por definir.
+	- EMPLEADO: contactar con clientes... por definir.
+	- PROVEEDOR: buscar productos, comparar precios y vender.
+	- ADMINISTRADOR : añadir, borrar, modificar clientes, provedores y empleados, consulta....
+
+
